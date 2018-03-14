@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movie_details_ui/models.dart';
+import 'package:movie_details_ui/model/models.dart';
 
 class RatingInformation extends StatelessWidget {
   RatingInformation(this.movie);

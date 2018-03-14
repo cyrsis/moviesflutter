@@ -1,15 +1,4 @@
 class Movie {
-  Movie({
-    this.bannerUrl,
-    this.posterUrl,
-    this.title,
-    this.rating,
-    this.starRating,
-    this.categories,
-    this.storyline,
-    this.photoUrls,
-    this.actors,
-  });
 
   final String bannerUrl;
   final String posterUrl;
@@ -20,6 +9,10 @@ class Movie {
   final String storyline;
   final List<String> photoUrls;
   final List<Actor> actors;
+
+  Movie({this.bannerUrl, this.posterUrl, this.title, this.rating,
+      this.starRating, this.categories, this.storyline, this.photoUrls,
+      this.actors});
 }
 
 class Actor {

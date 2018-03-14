@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:movie_details_ui/movie_api.dart';
-import 'package:movie_details_ui/movie_details_page.dart';
+import 'package:movie_details_ui/api/movie_api.dart';
+import 'package:movie_details_ui/Widget/Stateless/movie_details_page.dart';
 
 void main() {
   runApp(new MyApp());

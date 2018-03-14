@@ -1,3 +1,5 @@
+#Really good work with the Ui details
+
 # What is it?
 
 Sample project for creating a beautiful movie details UI in Flutter.
@@ -9,3 +11,4 @@ All the related source code is located in the [/lib](https://github.com/FlutterR
 The end result looks a little something like this:
 
 ![The end result](https://github.com/FlutterRocks/movie-details-ui/raw/master/movie_details_ui_result-1.png)
+

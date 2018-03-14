@@ -1,4 +1,5 @@
-import 'package:movie_details_ui/models.dart';
+import 'package:movie_details_ui/model/models.dart';
+
 
 final Movie testMovie = new Movie(
   bannerUrl: 'images/banner.png',

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:movie_details_ui/actor_scroller.dart';
-import 'package:movie_details_ui/models.dart';
-import 'package:movie_details_ui/movie_detail_header.dart';
-import 'package:movie_details_ui/photo_scroller.dart';
-import 'package:movie_details_ui/story_line.dart';
+import 'package:movie_details_ui/Widget/Stateless/actor_scroller.dart';
+import 'package:movie_details_ui/model/models.dart';
+import 'package:movie_details_ui/Widget/Stateless/movie_detail_header.dart';
+import 'package:movie_details_ui/Widget/Stateless/photo_scroller.dart';
+import 'package:movie_details_ui/Widget/Stateless/story_line.dart';
 
 class MovieDetailsPage extends StatelessWidget {
   MovieDetailsPage(this.movie);
